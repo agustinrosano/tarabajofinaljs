@@ -1,0 +1,8 @@
+[
+    {"nombre": "pokemon azul" ,"precio":2400, "img":"./img/pokemon-azul.jpg"},
+    {"nombre": "pokemon rojo" ,"precio":2300, "img":"./img/pokemon-rojo.jpg"},
+    {"nombre": "pokemon verde" ,"precio":2200, "img":"./img/pokemon-verde.jpg"},
+    {"nombre": "pokemon plata" ,"precio":1400, "img":"./img/pokemon-plata.jpg"},
+    {"nombre": "pokemon oro" ,"precio":2500, "img":"./img/pokemon-oro.jpg"},
+    {"nombre": "sonic" ,"precio":2000, "img": "./img/sonic.jpg"}
+]
